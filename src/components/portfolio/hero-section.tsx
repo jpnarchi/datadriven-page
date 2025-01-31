@@ -15,7 +15,7 @@ const textVariants = {
 const portfolioProjects = [
   {
     title: "Commando Studio",
-    image: "Images/commando.jpg"
+    image: "/Images/commando.jpg"
   },
   {
     title: "EcoStore",
