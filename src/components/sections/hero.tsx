@@ -87,14 +87,14 @@ export function Hero() {
             >
               <motion.h1 
                 variants={textVariants}
-                className="text-4xl md:text-6xl font-bold text-white"
+                className="text-4xl md:text-4xl font-bold text-white"
               >
                 Tu Negocio Necesita<br />Una Página Web Profesional
               </motion.h1>
               
               <motion.p 
                 variants={textVariants}
-                className="text-xl md:text-2xl text-white/90"
+                className="text-lg md:text-xl text-white/90"
               >
                 La creamos en 24 horas, sin complicaciones y a un precio justo
               </motion.p>
