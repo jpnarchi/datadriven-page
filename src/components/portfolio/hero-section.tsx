@@ -14,8 +14,8 @@ const textVariants = {
 
 const portfolioProjects = [
   {
-    title: "TechVision Pro",
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=500&h=300"
+    title: "Commando Studio",
+    image: "Images/commando.jpg"
   },
   {
     title: "EcoStore",
