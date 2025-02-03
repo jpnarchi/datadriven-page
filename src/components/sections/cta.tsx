@@ -19,7 +19,7 @@ export function CTA() {
             Agenda una videollamada gratuita y descubre cómo podemos ayudarte
           </p>
           <motion.a
-            href="https://calendar.app.google/CLAMNe5BcfDQzqeC8"
+            href="https://wa.me/525655881674?text=Me%20gustaria%20agendar%20una%20videollamada"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}
