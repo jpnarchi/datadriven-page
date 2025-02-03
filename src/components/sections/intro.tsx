@@ -50,7 +50,7 @@ export function Intro() {
               Sin términos técnicos complicados, sin esperas interminables. Solo resultados profesionales que harán que tu negocio destaque en internet y atraiga más clientes.
             </p>
             <motion.a
-              href="https://calendar.app.google/CLAMNe5BcfDQzqeC8"
+              href="https://wa.me/525655881674?text=Me%20gustaria%20agendar%20una%20videollamada"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.05 }}
