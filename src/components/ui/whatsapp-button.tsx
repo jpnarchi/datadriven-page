@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 
 export function WhatsAppButton() {
   const message = encodeURIComponent('¡Hola! Me interesa crear mi página web con Data Driven');
-  const whatsappUrl = `https://wa.me/1234567890?text=${message}`;
+  const whatsappUrl = `https://wa.me/525655881674?text=Me%20gustaria%20agendar%20una%20videollamada`;
 
   return (
     <motion.a
