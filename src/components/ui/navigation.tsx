@@ -52,7 +52,7 @@ export function Navigation() {
               </Link>
             ))}
             <a
-              href="https://calendar.app.google/CLAMNe5BcfDQzqeC8"
+              href="https://wa.me/525655881674?text=Me%20gustaria%20agendar%20una%20videollamada"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gradient-to-r from-blue-600 to-blue-400 text-white px-6 py-2 rounded-full hover:scale-105 transition-transform duration-300 shadow-lg hover:shadow-blue-500/25"
@@ -133,7 +133,7 @@ export function Navigation() {
                 transition={{ delay: menuItems.length * 0.1 }}
               >
                 <a
-                  href="https://calendar.app.google/CLAMNe5BcfDQzqeC8"
+                  href="https://wa.me/525655881674?text=Me%20gustaria%20agendar%20una%20videollamada"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-gradient-to-r from-blue-600 to-blue-400 text-white px-8 py-3 rounded-full text-lg font-medium hover:shadow-lg hover:shadow-blue-500/25 transition-all"
