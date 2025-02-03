@@ -59,7 +59,7 @@ export function Services() {
 
               <div className="pt-6">
                 <motion.a
-                  href="https://calendar.app.google/CLAMNe5BcfDQzqeC8"
+                  href="https://wa.me/525655881674?text=Me%20gustaria%20agendar%20una%20videollamada"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block px-8 py-4 bg-gradient-to-r from-yellow-400 to-yellow-500 text-gray-900 font-semibold rounded-lg shadow-lg hover:shadow-yellow-500/25 transition-all"
